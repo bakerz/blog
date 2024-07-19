@@ -2,6 +2,7 @@
 title: Sublime Text 配置及常用插件
 category: 工具
 tags: [编辑器, Sublime Text]
+create_time: 2015-01-07
 ---
 
 Sublime Text 是一款比较轻巧的编辑器，打开文件的速度很快，安装包体积不大且运行时内存占用不多。保留基础编辑功能的同时，拥有丰富的插件生态，开发者可以自行添加需要的功能插件。

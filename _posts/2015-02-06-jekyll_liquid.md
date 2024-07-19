@@ -2,6 +2,7 @@
 title: Jekyll 系列（二）：初识模板语言 Liquid
 category: 随笔
 tags: [Jekyll, Liquid]
+create_time: 2015-02-06
 ---
 
 Liquid 是一门开源的模板语言，何为模板语言呢？

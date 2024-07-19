@@ -2,7 +2,8 @@
 title: Jekyll 系列（四）：Pagination
 category: 随笔
 tags: [Jekyll]
-last_modified_date: 2021-08-03
+create_time: 2015-02-08
+update_time: 2021-08-03
 ---
 
 当博客中的文章达到一定数量时，就会需要分页展示文章列表。

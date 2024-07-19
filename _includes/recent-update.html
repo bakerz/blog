@@ -1,17 +1,17 @@
 <div id="recent-update">
   <h4 class="p-0 m-0 m-b-8">最近更新</h4>
   {% assign posts = '' | split: '' %}
-  {% assign modified_posts = '' | split: '' %}
+  {% assign updated_posts = '' | split: '' %}
 
   {% for post in site.posts %}
-    {% if post.last_modified_date %}
-      {% assign modified_posts = modified_posts | push: post %}
+    {% if post.update_time %}
+      {% assign updated_posts = updated_posts | push: post %}
     {% else %}
       {% assign posts = posts | push: post %}
     {% endif %}
   {% endfor %}
 
-  {% assign recent_update = modified_posts | sort: 'last_modified_date' | reverse | concat: posts %}
+  {% assign recent_update = updated_posts | sort: 'update_time' | reverse | concat: posts %}
   <ul class="p-0 m-0">
     {% for post in recent_update limit: 5 %}
     <li>

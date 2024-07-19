@@ -2,7 +2,8 @@
 title: Jekyll 系列（五）：Syntax Highlight
 category: 随笔
 tags: [Jekyll]
-last_modified_date: 2021-08-04
+create_time: 2015-02-09
+update_time: 2021-08-04
 ---
 
 技术类型的博客自然少不了示例代码，不仅如此，为了优化阅读体验，还需要对示例代码进行语法高亮展示。

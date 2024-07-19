@@ -2,6 +2,7 @@
 title: JavaScript 基础练习（一）
 category: 技术
 tags: [JavaScript]
+create_time: 2015-01-06
 ---
 
 本文记录了我刚学习 JavaScript 时遇到的一些练习题，刚看到时可能会感觉很简单，但其中包含了一些容易被忽视的知识点，也从另一个方面体现了基础对于程序员是多么重要。

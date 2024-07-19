@@ -2,7 +2,8 @@
 title: Jekyll 系列（六）：添加评论功能
 category: 随笔
 tags: [Jekyll]
-last_modified_date: 2021-08-06
+create_time: 2015-02-10
+update_time: 2021-08-06
 ---
 
 刚开始完成博客部署时，并没有考虑到需要添加评论功能。原因大致有三：
